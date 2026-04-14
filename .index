@@ -1,15 +1,42 @@
-intro
-the_aim
+//=======================
+// AÇILIŞ HİKAYESİ
+//=======================
+
+// opening_story.md
+
+//=======================
+// PERDE 1: NE OLDU?
+//=======================
+
+opening
+ai_evolution
 ai_realities
-sustainability
-phoenix_architecture
-sdlc
+
+//=======================
+// DÖNÜŞ NOKTASI
+//=======================
+
+the_turning_point
+
+//=======================
+// PERDE 2: NE YAPMALI?
+//=======================
+
+phoenix
 verification
-complexity_modularity_ddd
-human_in_the_loop
-pair_programming
-taste_clean_code
+system_design
+
+//=======================
+// PERDE 3: NASIL?
+//=======================
+
+new_skills
 apprenticeship
-skills_of_future
 new_software_crafter
+
+//=======================
+// KAPANIŞ
+//=======================
+
+golden_age
 the_end
