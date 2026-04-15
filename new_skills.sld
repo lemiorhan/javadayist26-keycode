@@ -29,6 +29,10 @@ AI genel çözümler sunar, zanaatkar ise o çözümü spesifik iş problemine d
 Bu yeni modelde, AI desteğiyle "genelci" bir mühendis,
 dünün 10 kişilik ekibinin ürettiği değeri tek başına üretebilir hale geliyor.
 
+AI çağında veri güvenliği konusunda ciddi bir ilgi ve uzmanlık gerekecek.
+Context window'a ne giriyor? Hangi veriler model sağlayıcılara gönderiliyor?
+Bu sorular yeni bir T-şekli derinlik ekseni oluşturuyor.
+
 */
 
 ---
@@ -89,6 +93,36 @@ Kodlama standartlarınızı, mimari kararlarınızı ve takım kültürünüzü 
 
 Statik ve eksik bilgiyle beslenen ajanlar,
 dinamik ve karmaşık sistemlerde felaket yaratır.
+
+*/
+
+---
+
+<header color=cyan>AI GOVERNANCE</header>
+
+<p max-width=60 align=left>
+    AI governance is <color fg="red">essential</color>
+
+    ==> Companies need a governing body that <color fg="yellow">leads rules</color>
+    ==> That <color fg="yellow">learns</color> from failures and successes
+    ==> And <color fg="yellow">teaches</color> across the organization
+    ==> Without governance, every team creates its own <color fg="red">AI Wild West</color>
+</p>
+
+/* PRESENTER NOTES:
+
+AI governance şart. Yani şirketin AI kullanım kural setini
+lead eden, öğrenen ve anlatan bir merciiye ihtiyaç var.
+
+Bireysel beceriler yetmez — organizasyonel düzeyde bir yönetişim
+yapısı olmadan her takım kendi AI vahşi batısını yaratır.
+
+Bu merci: hangi modeller kullanılabilir, hangi veriler paylaşılabilir,
+güvenlik standartları nelerdir, başarılı/başarısız deneyimler
+nasıl paylaşılır — bunların hepsini yönetir.
+
+Governance olmadan AI kullanımı, herkesin kendi kurallarını
+koyduğu bir anarşiye dönüşür.
 
 */
 

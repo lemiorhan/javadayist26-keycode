@@ -45,6 +45,40 @@ farkı yaratır. Alet çantası değil, ustanın eli önemlidir.
 
 ---
 
+<p max-width=60 align=left>
+    As Venkat says:
+
+    Making programmers <color fg="yellow">productive</color> is like
+    Henry Ford hearing "<color fg="gray">we want faster horses</color>"
+
+    I don't want <color fg="red">faster programmers</color>
+    I want greater <color fg="green">business agility</color>
+
+    If your job is mostly <color fg="gray">typing code</color>, that's gone
+    If it's <color fg="yellow">solving problems</color>, you can elevate
+</p>
+
+/* PRESENTER NOTES:
+
+Birisi size gelip "AI harika çünkü programcıları verimli hale getiriyor" derse,
+bu Henry Ford'un "daha hızlı atlar istiyoruz" demesini duymasına benzer.
+
+Hayır, daha hızlı atlar değil, atlardan kurtulmak istiyoruz.
+Daha hızlı programcılar değil, daha büyük iş çevikliği istiyoruz.
+
+Siz bir problem çözücüsünüz. Kendinizi "kod yazan kişi" olarak
+tanımlarsanız, o iş gitti. Ama işiniz problem çözmek, karar vermek,
+bağlam çıkarmak ve doğru araçları kullanmaksa,
+gelecek sizi zenginleştirecek.
+
+İşinizin büyük kısmı tuşlara basmaksa, o kısım yok olacak.
+Problem çözme, karar alma, bağlam çıkarma ise — çok daha
+zenginleştirici bir geleceğe doğru ilerliyorsunuz.
+
+*/
+
+---
+
 <p max-width=60 align=center>
     Everyone says
     "<color fg="gray">AI will eat software</color>"
@@ -114,6 +148,31 @@ bir ortamda kimse sorumlu değildi. 500 milyon dolar harcandı.
 
 (Kaynak: GAO Report GAO-14-694, Eylül 2014)
 (Kaynak: Sandro Mancuso, "The Software Craftsman", Prentice Hall, 2014)
+
+*/
+
+---
+
+<p max-width=60 align=center>
+    Software Craftsmanship sees development
+    as a <color fg="yellow">profession</color>, not just a skill
+
+    Working code is a <color fg="gray">skill</color>
+    Sustainable systems mark the <color fg="cyan">profession</color>
+</p>
+
+/* PRESENTER NOTES:
+
+Software Craftsmanship yazılım geliştirmeyi bir skill olarak değil,
+bir meslek olarak görür.
+
+Kod yazabilmek bir beceridir — herkes öğrenebilir, AI bile yapabilir.
+Ama sürdürülebilir sistemler kurmak, trade-off'ları yönetmek,
+nesillere aktarılabilir bir mühendislik kültürü oluşturmak —
+bunlar bir mesleğin alametidir.
+
+Bu fark, AI çağında daha da keskinleşiyor.
+Çalışan kod üreten çok. Sürdürülebilir sistemler kuran az.
 
 */
 

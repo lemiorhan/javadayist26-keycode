@@ -104,6 +104,7 @@ Sıkı bir kafes = daha fazla otonom hareket alanı.
 <p max-width=60 align=left>
     Assume the AI <color fg="red">lied</color> to you!
 
+    ==> AI does not know what is good or what is bad
     ==> Every generated line is <color fg="yellow">guilty</color> until proven <color fg="yellow">innocent</color>
     ==> Validation is the only <color fg="yellow">truth</color>
     ==> Trust the <color fg="yellow">contract,</color> not the AI
@@ -121,6 +122,32 @@ Bizim tek gerçeğimiz doğrulama ve kontratlardır.
 Güvenimiz sadece matematiksel kanıtlara ve deterministik testlere dayanır.
 
 Bizler AI'nın hayranı değil, onun en sert müfettişleriyiz.
+
+AI neyin iyi neyin kötü olduğunu bilmez.
+Bu bir kötü niyet değil, bir yapısal sınırlılık.
+O nedenle "Zero Trust" yaklaşımı bir tercih değil, bir zorunluluktur.
+
+*/
+
+---
+
+<p max-width=60 align=center>
+    No matter what happens
+
+    Code must be <color fg="red">deterministic</color>
+</p>
+
+/* PRESENTER NOTES:
+
+(Bu slaytı büyük fontla göster. 3-5 saniye sessizlik bırak.)
+
+Her ne olursa olsun, kod deterministik olmak zorunda.
+
+AI'ın stokastik doğası (undeterministik, rastgelelik) ile yazılımın deterministik gerekliliği
+arasındaki bu gerilim, tüm doğrulama zanaatının temelini oluşturur.
+
+Eğer bir sistemin çıktısı tahmin edilemezse, o sistem güvenilemezdir.
+Bu, AI çağının en temel mühendislik prensibidir.
 
 */
 

@@ -152,6 +152,32 @@ Tavizlerin toplamı ise mühendislik değil, borçtur.
 
 ---
 
+<p max-width=60 align=center>
+    They say AI brought <color fg="red">Waterfall</color> back
+
+    But software is a journey into the <color fg="yellow">unknown</color>
+    It must be <color fg="green">iterative</color> by its very nature
+</p>
+
+/* PRESENTER NOTES:
+
+AI ile waterfall geri geldi diyorlar.
+Yani: gereksinimlerini yaz, AI'a ver, bir seferde bitir.
+
+Ancak yazılım bir bilinmeyene yolculuktur.
+Sürekli keşif, sürekli geliştirme demektir.
+Doğası gereği iteratif olmak zorunda.
+
+AI hızı artırabilir ama belirsizliği ortadan kaldırmaz.
+Denemeden, risk almadan, pivotlamadan gerçek çözümler üretemezsiniz.
+
+Trivial olmayan problemlerin trivial çözümleri yoktur.
+Bu her zaman böyleydi, AI çağında da böyle kalacak.
+
+*/
+
+---
+
 <p max-width=60 align=left>
     <color fg="gray">Past:</color> Design code that <color fg="red">lasts</color> 10 years
     <color fg="gray">Future:</color> Design a system that can be <color fg="green">changed</color> in 10 minutes

@@ -3,15 +3,16 @@
 
 <ai-sim interval-min=2500 interval-max=4500>
   <ai-step delay-ms=1500><color fg="green">[OK]</color> <color fg="gray">Connecting to the Software Craftsmanship Neural Engine</color></ai-step>
-  <ai-step><color fg="green">[OK]</color> <color fg="gray">Analyzing your answer against 2,847 conference keynotes</color></ai-step>
-  <ai-step><color fg="green">[OK]</color> <color fg="gray">Cross-referencing with 50 years of engineering wisdom</color></ai-step>
-  <ai-step><color fg="green">[OK]</color> <color fg="gray">Running the "Skills Will Eat AI" prediction model</color></ai-step>
-  <ai-step delay-ms=3500><color fg="red">[!!] ALERT: Strong Java community detected!</color></ai-step>
-  <ai-step><color fg="green">[OK]</color> <color fg="gray">Calibrating keynote generation parameters</color></ai-step>
-  <ai-step><color fg="green">[OK]</color> <color fg="gray">Generating your personalized conference talk</color></ai-step>
+  <ai-step><color fg="green">[OK]</color> <color fg="gray">Analyzing your answer against 2,847 articles and papers</color></ai-step>
+  <ai-step delay-ms=3500><color fg="red">[!!] ERROR: Connection reset, retrying...</color></ai-step>
+  <ai-step><color fg="green">[OK]</color> <color fg="gray">Cross-referencing with real engineering experiences</color></ai-step>
+  <ai-step><color fg="green">[OK]</color> <color fg="gray">Running the "do not follow the hype, follow the wisdom" prediction model</color></ai-step>
+  <ai-step delay-ms=3500><color fg="red">[!!] ALERT: Strong talented people detected in the audience!</color></ai-step>
+  <ai-step><color fg="green">[OK]</color> <color fg="gray">Calibrating thinking and responding parameters</color></ai-step>
+  <ai-step><color fg="green">[OK]</color> <color fg="gray">Generating a wierd talk as a response</color></ai-step>
   <ai-final>
     <p max-width=72 align=left>
-<color fg="yellow">KEYNOTE GENERATED SUCCESSFULLY</color>
+<color fg="yellow">TALK CONTENT GENERATED SUCCESSFULLY</color>
 
       Estimated audience reaction: <color fg="gray">Falling into sleep probability 4.7%</color>
       Side effects: <color fg="gray">Sudden urge to delete your codebase and rebuild from specs</color>

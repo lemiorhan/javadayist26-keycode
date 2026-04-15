@@ -217,6 +217,37 @@ Kod artık bir çıktı (artifact), testler ise asıl kaynaktır.
 
 ---
 
+<p max-width=70 align=left>
+    AI is the <color fg="yellow">future compiler</color>
+    - Venkat Subramaniam
+
+    ==> You don't modify <color fg="gray">machine code</color>, you regenerate it
+    ==> What if we never look at <color fg="gray">source code</color> again?
+    ==> A company's wealth is in the <color fg="cyan">data</color> and the <color fg="cyan">business requirements</color>
+</p>
+
+/* PRESENTER NOTES:
+
+Derleyiciden makine kodu ürettiğinizde,
+gidip o makine kodunu elle değiştirmezsiniz.
+Programı siler, yeniden derlersiniz.
+
+Ya biz de kaynak kodu bir daha hiç açmasak?
+Problemi AI'a ver, kodu üretsin.
+Değişiklik gerektiğinde kodu sil, yeniden üret.
+Kaynak kodu açıp bakmak bile gerekmesin.
+
+Bir şirketin asıl zenginliği verileri ve iş gereksinimleridir,
+kaynak kodu değil. Kaynak kodu artık bir ara ürün.
+
+Eğer uygulamalar hızlıca yeniden üretilebilirse,
+AI geleceğin derleyicisi olur.
+Bu, Phoenix mimarisinin nihai ifadesidir.
+
+*/
+
+---
+
 <p max-width=60 align=left>
     Do not fix the code <color fg="red">manually</color>, fix the <color fg="red">factory</color>
 
@@ -242,6 +273,35 @@ fabrikanın ayarlarını düzeltin ki tüm ürünler hatasız çıksın.
 W. Edwards Deming'in sözü burada geçerli:
 "Every system is perfectly designed to get the results it gets."
 Sonucu değil, sistemi değiştirin.
+
+*/
+
+---
+
+<p max-width=60 align=left>
+    Can we have a fully <color fg="red">human-free</color> development flow?
+    A <color fg="yellow">Dark Factory</color> for all products?
+
+    ==> <color fg="red">No.</color> But for some products, <color fg="green">yes</color>
+    ==> The prerequisite: <color fg="cyan">deterministic verification</color>
+    ==> Software is complex by nature
+    ==> Controls are <color fg="red">must-have</color>
+</p>
+
+/* PRESENTER NOTES:
+
+Tamamen insandan arındırılmış bir geliştirme akışı olabilir mi?
+Dark factory her ürün için yapılabiliyor mu? Hayır.
+
+Ama bazı ürünler ve akışlar için kurulabilir.
+Önemli olan deterministik bir yapı kurmak.
+
+Ancak yazılımın doğası karmaşıktır (complex).
+Bunu deterministik hale getirmenin tek koşulu
+doğru bir verification sürecidir. Kontroller olmazsa olmazdır.
+
+Phoenix mimarisi güçlüdür, ama güçlü bir doğrulama
+düzeneği olmadan sadece kaos üretir.
 
 */
 

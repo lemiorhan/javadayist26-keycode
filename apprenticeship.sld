@@ -76,6 +76,11 @@ ancak bu görevler aslında geleceğin mimarlarının yetiştiği mutfaktır.
 Gelecekte otonom ajanları yönetecek Senior mühendislere ihtiyacımız olduğunda,
 elimizde bu yollardan geçmemiş bir nesil olacak.
 
+Junior tanımı değişti. Artık Pascal veya C# bilen değil,
+lokal modelleri çalıştırabilen, kendi araç zincirini kurabilen,
+AI ile otonom çalışabilen genç mühendisler öne çıkıyor.
+Bu yeni tanım, eğitim müfredatlarının da değişmesi gerektiğinin işareti.
+
 */
 
 ---
@@ -225,6 +230,11 @@ When is <color fg="yellow">Human-In-The-Loop</color> a must?
 
 4. PROBLEM ÇERÇEVELEME: Söylenmemiş kısıtlar ve niyetler.
    Müşterinin gerçekte ne istediğini anlamak insan işidir.
+
+Human in the loop, go/no-go kararını veren son mercidir.
+Zaman içinde insan müdahalesi azalacak — ama daha başındayız.
+Şu an insanı döngüden çıkarmak erken optimizasyondur.
+İnsanın azalması değil, doğru noktalarda kalması önemli.
 
 GEÇİŞ: "Tüm bunları bir araya getirdiğimizde,
 yeni nesil zanaatkarın portresi beliriyor."

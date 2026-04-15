@@ -24,6 +24,10 @@ Bir noktadan sonra insan ister istemez şunu düşünüyor:
 İşin komik tarafı şu:
 Bir süre sonra AI ile ürün geliştirenlerden çok, AI hakkında paylaşım geliştiren insanlar görmeye başlıyoruz.
 
+Herkes AI PR'ı peşinde. Amaç kullanmak için kullanmak olmuş.
+Use case'lerden bahseden yok. AI kullandıkları için gelirler artmamış, ürün rakiplerinin 2x-5x önüne geçmemiş.
+AI resmen bir reklam malzemesi olmuş.
+
 ## Teşhis
 
 Başta komik geliyor.

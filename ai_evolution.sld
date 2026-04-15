@@ -20,6 +20,40 @@ O gün başlayan devrim şimdi 5. fazına ulaştı.
 
 ---
 
+<p max-width=60 align=center>
+    The term <color fg="red">AI</color> was coined by John McCarthy in <color fg="red">1956</color>
+
+    Thousands of people have worked on it for <color fg="yellow">decades</color>
+    But it feels like it's <color fg="yellow">just happened</color>
+    Evolution has just passed the level of getting <color fg="yellow">public attraction</color>
+</p>
+
+/* PRESENTER NOTES:
+
+AI terimi 1956'da John McCarthy tarafından icat edildi.
+70 yıldır binlerce insan bu alanda çalışıyor.
+
+Bugün "bir anda olan" gibi görünen şeyler aslında onlarca yılın birikimi.
+Bu perspektifi korumak önemli — hype döngülerine kapılmamak için.
+
+Bazen bir şey "dün oldu" gibi hissettiriyor ama gerçekte
+o noktaya gelmek çok uzun zaman aldı. AI de öyle.
+
+~~~
+
+Arabaların yaygınlaşması onlarca yıl sürdü.
+At arabalarından otomobile geçiş bir anda olmadı.
+
+Herkes hemen geçecek diye bir şart yok.
+Yere sağlam basmak gerekli. Hype peşinde koşmak yerine,
+temelleri doğru atmak her zaman kazandırır.
+
+Her büyük teknolojik dönüşüm, beklentilerden daha yavaş
+ama etkilerinde beklentilerden daha derin olmuştur.
+*/
+
+---
+
 <header color=cyan>PHASE 1: THE STACK OVERFLOW ERA</header>
 
 <p max-width=60 align=left>
