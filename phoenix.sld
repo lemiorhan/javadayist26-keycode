@@ -114,6 +114,7 @@ o problemi çözen "if-else" blokları değil.
     ==> Don't <color fg="yellow">patch</color> the bug
     ==> <color fg="yellow">Regenerate</color> the module
     ==> Use AI to rewrite from <color fg="yellow">Specifications</color>
+    ==> Components can be implemented <color fg="yellow">in any language or framework</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -134,6 +135,37 @@ Netflix bunu altyapıda başardı, şimdi sıra kodda.
 
 (Kaynak: Casey Rosenthal & Nora Jones, "Chaos Engineering", O'Reilly, 2020)
 
+*/
+
+---
+
+<p max-width="70" align="center">
+    As Chad Fowler says:
+
+    If you want a system that <color fg="red">survives change</color> over time,
+    why can’t you just <color fg="red">regenerate the whole</color> thing constantly
+
+    ==> We have to lock the <color fg="yellow">decisions made</color>, that is, the intents (and clauses)
+</p>
+
+/* PRESENTER NOTES:
+Sistem sadece söylediğin şeylerden oluşmaz.
+Söylemediğin ama modelin senin yerine verdiği kararlardan da oluşur.
+shadow specs teorik bir kavram değil; bugünkü gerçeklik.
+
+AI ile yazılım geliştirirken sadece kod üretmek yetmez.
+Şunları da bilmek gerekir:
+* hangi kararlar sabit kalmalı (lock),
+* hangi şeyler rastgele değişmemeli (stability),
+* hangi kararları insan verdi, hangilerini agent uydurdu (authorship / provenance),
+* sistemde açıkça yazılmamış ama fiilen oluşmuş kararlar neler (shadow specs).
+
+Eğer niyeti baştan sona izlenebilir şekilde koda bağlayabilirsek, ve neyin insan kararı neyin agent kararı olduğunu
+bilirsek, o zaman gerçekten “regenerative software” mümkün olur.
+
+“AI’nin ürettiği sistemlerde, koddan çok kararların soy ağacını takip etmek önemli hale geliyor.”
+yazılımın merkezi artık tek başına “kod” olmaktan çıkıyor; onun yerine niyet, karar mekanizması, kısıtlar, eval’ler ve
+yeniden üretilebilir yapı öne çıkıyor
 */
 
 ---
@@ -194,8 +226,9 @@ Silebildiğiniz kadar güçlüsünüzdür.
 
 ---
 
-<p max-width=60 align=center>
-    <color fg="red">Specs</color> and <color fg="red">Evals</color> are the new "Code."
+<p max-width=60 align=left>
+    Regenerative Software:
+    <color fg="yellow">Specs</color> (intents), <color fg="yellow">decisions</color> made, <color fg="yellow">constraints</color>, and <color fg="yellow">evals</color> are the new "<color fg="red">Code</color>"
 </p>
 
 /* PRESENTER NOTES:

@@ -33,6 +33,9 @@ Zanaatkarlık ölmedi — dönüşüyor. Ve bu dönüşümün tam ortasındayız
     Why did I build this terminal tool?
 </p>
 
+<footnote>Ref: https://github.com/lemiorhan/keycode</footnote>
+<qr colors=white-on-transparent width=15%>https://github.com/lemiorhan/keycode</qr>
+
 /* PRESENTER NOTES:
 
 Neden Powerpoint değil? Neden bu siyah ekran?
@@ -112,18 +115,15 @@ AI ile olan etkileşimimizi, bir tehdit değil, zanaatın bir sonraki evresi ola
 <image path="github_lemi.png" width="50%"/>
 
 <p max-width=60 align=left>
-    <color fg="cyan">350,000+ lines</color> of AI-supported code
+    <color fg="cyan">400,000+ lines</color> of AI-supported code
     <color fg="cyan">Vibe coded</color> tons of minor apps to improve my productivity
-    <color fg="cyan">120 days</color> of constant pair-coding with models
+    <color fg="cyan">135 days</color> of constant pair-coding with models
     <color fg="cyan">1 live app in production</color> with BE & FE having 80+ modules
-
-    ==>90% of the bits were <color fg="green">AI generated.</color>
-    ==>100% of the decisions were <color fg="red">human.</color>
 </p>
 
 /* PRESENTER NOTES:
 
-Son 4 ayda 350 binden fazla satır kodun içinden geçtim.
+Son 4 ayda 400 binden fazla satır kodun içinden geçtim.
 Bu, Spring Framework core'unun tamamına denk bir hacim. Tek bir insanla, 120 günde.
 
 Ama size söylemediğim bir şey var: Bu süreçte AI'ın ürettiği bir ödeme mantığını

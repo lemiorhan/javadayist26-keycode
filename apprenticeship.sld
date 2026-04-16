@@ -116,8 +116,7 @@ Junior mühendis ise o çıktıyı doğrulayacak temel bilgiden yoksun.
     focusing on <color fg="red">mastery of judgment</color>, not tools or syntax
 
     ==> <color fg="yellow">Master-Apprentice</color> focus on well-crafted code and design
-    ==> <color fg="yellow">Preceptor-Apprentice</color> focus on systems thinking,
-    architecture, and verification
+    ==> <color fg="yellow">Preceptor-Apprentice</color> focus on systems thinking, architecture, and verification
 </p>
 
 /* PRESENTER NOTES:
@@ -181,8 +180,7 @@ bir kaldıraç olarak kullanmasını sağlar.
     "<color fg="red">Cognitive Debt</color>" rather than code syntax
 
     ==> old: <color fg="yellow">wax on-wax off</color> - why does code not compile?
-    ==> new: <color fg="yellow">system thinking</color> - why does the domain model
-    leak to this module?
+    ==> new: <color fg="yellow">system thinking</color> - why does the domain model leak to this module?
 </p>
 
 /* PRESENTER NOTES:
@@ -207,12 +205,14 @@ Yeni çıraklık: "Kod neden derlenmedi?" sorusu yerini
 
 <header color=cyan>HUMAN IN THE LOOP</header>
 
+<p max-width=70 align=left>
 When is <color fg="yellow">Human-In-The-Loop</color> a must?
 
 <color fg="red">One-way doors</color> — data modeling, defining contexts, technology stack
 <color fg="red">Accountability</color> — selection algorithms, ethical perspectives
 <color fg="red">Hidden couplings</color> — detecting working code with bad taste
 <color fg="red">Problem framing</color> — focusing on unspoken constraints and intents
+</p>
 
 /* PRESENTER NOTES:
 

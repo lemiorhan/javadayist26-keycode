@@ -10,7 +10,7 @@
 
 <header color=cyan>1. SLOP-DETECTION</header>
 
-<p max-width=60 align=center>
+<p max-width=60 align=left>
     The ability to smell <color fg="red">AI Slop</color> before it builds up
 
     Recognizing <color fg="yellow">working but rotten</color> code
@@ -39,7 +39,7 @@ Gerçek zanaat, o "baştan savma borcu" henüz oluşmadan
 
 <header color=cyan>2. ISOLATION MASTERY</header>
 
-<p max-width=60 align=center>
+<p max-width=60 align=left>
     Obsessed with <color fg="yellow">Bounded Contexts</color> and <color fg="cyan">Modularity</color>
 
     Hierarchy is the past, <color fg="cyan">Isolation</color> is the future
@@ -98,7 +98,7 @@ yönlendiren pusula zanaatkardadır.
 
 <header color=cyan>4. DISPOSABILITY MINDSET</header>
 
-<p max-width=60 align=center>
+<p max-width=60 align=left>
     The pride of <color fg="red">deleting</color>
 
     No emotional attachment to <color fg="gray">lines of code</color>
@@ -127,12 +127,12 @@ Silebildiğiniz kadar özgür, değiştirebildiğiniz kadar ustasınızdır.
 
 <header color=cyan>5. META-LEARNING</header>
 
-<p max-width=60 align=center>
+<p max-width=60 align=left>
     Losing <color fg="gray">syntax,</color> gaining <color fg="yellow">reasoning awareness</color>
 
-    => Experimenting with <color fg="cyan">model limits</color>
-    => From <color fg="green">typing algorithms</color> to <color fg="green">auditing</color> them
-    => Practicing <color fg="cyan">designing systems</color> continuously
+    Experimenting with <color fg="cyan">model limits</color>
+    From <color fg="green">typing algorithms</color> to <color fg="green">auditing</color> them
+    Practicing <color fg="cyan">designing systems</color> continuously
 </p>
 
 /* PRESENTER NOTES:

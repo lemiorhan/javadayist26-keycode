@@ -80,11 +80,9 @@ zenginleştirici bir geleceğe doğru ilerliyorsunuz.
 ---
 
 <p max-width=60 align=center>
-    Everyone says
-    "<color fg="gray">AI will eat software</color>"
+    Any fool can <color fg="red">prompt AI</color> to generate code.
 
-    I say:
-    <color fg="yellow">Skills will eat AI</color>
+    Good engineers build systems that <color fg="red">humans can trust</color>.
 </p>
 
 /* PRESENTER NOTES:

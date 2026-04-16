@@ -52,6 +52,8 @@ Bir zamanlar da başka şeyler böyle sunuluyordu.
 Mesela bir dönem sanki herkesin Scrum yapması şartmış gibi davranıldı.
 Ritüeller amaç oldu, problem çözmek ikinci plana düştü.
 
+Geçmişte IoT, blockchain, kripto para, nft, metaverse satışçıları heryerdeydi.
+
 Bugün aynı refleksi başka bir kelimede görüyoruz:
 AI.
 

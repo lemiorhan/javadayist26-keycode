@@ -1,8 +1,9 @@
-<beautify/>
 <slide-number v-align="bottom" h-align="right"/>
 
 <image path="ai_evolution.png" width="35%"/>
+<p top-margin=18 align="center">
 We have a link with AI <color fg="yellow">deep inside</color> our profession
+</p>
 
 /* PRESENTER NOTES:
 
@@ -20,7 +21,7 @@ O gün başlayan devrim şimdi 5. fazına ulaştı.
 
 ---
 
-<p max-width=60 align=center>
+<p max-width=70 align=left>
     The term <color fg="red">AI</color> was coined by John McCarthy in <color fg="red">1956</color>
 
     Thousands of people have worked on it for <color fg="yellow">decades</color>
@@ -186,7 +187,6 @@ manuel kod yazmaktan daha fazla enerji tüketebilir.
 
     AI <color fg="yellow">owns</color> the entire Lifecycle
     Requirement -> Validate -> Deploy -> <color fg="green">Self-Heal</color>
-    Replacing the <color fg="red">Human Bottleneck</color>
     We are the <color fg="cyan">the final evaluators of value</color>
 </p>
 
@@ -210,7 +210,7 @@ Bizler bu otonom fabrikaların sadece "değer" ve "etik" bekçileri olarak kalac
 ---
 
 <p max-width=60 align=left>
-    Humans are the <color fg="red">bottleneck.</color>
+    Humans are the <color fg="red">bottleneck</color>
 
     AI is becoming <color fg="yellow">more capable</color> in every domain
     We are building the machine that <color fg="cyan">replaces our labor</color>
