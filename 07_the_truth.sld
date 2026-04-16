@@ -45,7 +45,6 @@ kendi zihinsel kapasitesini bir makineye aktararak kendini ölçeklendirmeye ça
     but make you much <color fg="green">braver</color>
 
     ==> Projects that were <color fg="yellow">too big</color> are now <color fg="yellow">possible</color>
-
     ==> AI gives us the <color fg="yellow">courage</color> to build ideas
     ==> we previously <color fg="yellow">didn't dare</color> to attempt
 </p>
@@ -98,6 +97,8 @@ Requires understanding the rationale behind seemingly <color fg="yellow">bad dec
 
 ---
 
+<ignore/>
+
 <image path="ai-waterfall.png" width="40%"/>
 <p max-width=60 align=center>
     They say AI brought <color fg="red">Waterfall</color> back
@@ -127,11 +128,11 @@ Bu her zaman böyleydi, AI çağında da böyle kalacak.
 
 <p max-width=60 align=left>
     <color fg="gray">Past:</color> Design code that <color fg="red">lasts</color> 10 years
-    <color fg="gray">Future:</color> Design a system that can be <color fg="green">changed</color> in 10 minutes
+    <color fg="gray">Future:</color> Design a system that can be <color fg="red">changed</color> in 10 minutes
 
-    => <color fg="red">Code</color> is temporary, <color fg="green">intent</color> is what endures
-    => <color fg="red">Maintenance</color> died
-    => <color fg="green">Regeneration</color> is how software lives and grows
+    ==> <color fg="yellow">Code</color> is temporary, <color fg="yellow">intent</color> is what endures
+    ==> <color fg="yellow">Maintenance</color> died
+    ==> <color fg="yellow">Regeneration</color> is how software lives and grows
 </p>
 
 /* PRESENTER NOTES:

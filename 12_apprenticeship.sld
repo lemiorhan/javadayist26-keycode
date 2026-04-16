@@ -1,3 +1,5 @@
+<ignore/>
+
 <beautify/>
 <slide-number v-align="bottom" h-align="right"/>
 <title>
@@ -6,6 +8,8 @@
 </title>
 
 ---
+
+<ignore/>
 
 <p max-width=60 align=center>
     AI's <color fg="red">"EASY" button</color> destroys our cognitive muscles
@@ -44,6 +48,8 @@ AI engelleri kaldırıyor — ama engeller zanaatkarı yaratan şeydi.
 
 ---
 
+<ignore/>
+
 <header color=cyan>THE JUNIOR DILEMMA</header>
 
 <p max-width=60 align=center>
@@ -55,6 +61,8 @@ AI engelleri kaldırıyor — ama engeller zanaatkarı yaratan şeydi.
 </p>
 
 ---
+
+<ignore/>
 
 <p max-width=60 align=center>
     Who will be the <color fg="yellow">Architect of 2030?</color>
@@ -85,6 +93,8 @@ Bu yeni tanım, eğitim müfredatlarının da değişmesi gerektiğinin işareti
 
 ---
 
+<ignore/>
+
 <p max-width=60 align=center>
     AI provides a <color fg="red">boost</color> to a senior engineer
     it creates a <color fg="red">drag</color> for a junior engineer
@@ -108,6 +118,8 @@ Junior mühendis ise o çıktıyı doğrulayacak temel bilgiden yoksun.
 */
 
 ---
+
+<ignore/>
 
 <header color=cyan>THE PRECEPTOR MODEL</header>
 
@@ -146,6 +158,8 @@ Junior'lar hiç "ellerini kirletmezlerse",
 
 ---
 
+<ignore/>
+
 <header color=cyan>TRIO PROGRAMMING</header>
 
 <p max-width=60 align=center>
@@ -173,6 +187,8 @@ bir kaldıraç olarak kullanmasını sağlar.
 */
 
 ---
+
+<ignore/>
 
 <image path="shu_ha_ri.png" width="30%"/>
 <p max-width=60 align=left>

@@ -153,12 +153,12 @@ bir ortamda kimse sorumlu değildi. 500 milyon dolar harcandı.
 
 ---
 
-<p max-width=60 align=center>
-    Software Craftsmanship sees <color fg="red">development as a profession</color>,
-    not just a skill
+<ignore/>
 
-    Working code is a skill
-    <color fg="green">Sustainable systems mark the profession</color>
+<p max-width=70 align=center>
+    Software Craftsmanship sees development a <color fg="red">profession</color>, not just a skill
+
+    Working code is a skill, <color fg="green">sustainable systems mark the profession</color>
 </p>
 
 /* PRESENTER NOTES:

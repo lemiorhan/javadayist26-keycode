@@ -173,6 +173,8 @@ yeniden üretilebilir yapı öne çıkıyor
 
 ---
 
+<ignore/>
+
 <image path="code_prison.jpg" width="40%"/>
 
 <p max-width=60 align=center>

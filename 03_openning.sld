@@ -78,13 +78,13 @@ kendi araçlarını inşa etmek bir lüks değil, bir tutum meselesidir.
 <p max-width=65 align=left>
     I've been a <color fg="red">sensitive terminator</color> for a long time
 
-    => <color fg="red">Denial</color> - AI is just hype
-    => <color fg="red">Anger</color> - It produces bad code
-    => <color fg="yellow">Bargaining</color> - Use it only for boilerplate
-    => <color fg="yellow">Anxiety & Loss</color> - What is my long-term value?
-    => <color fg="blue">Acceptance</color> - I need to learn to use it well
-    => <color fg="blue">Experimentation</color> - Let me test it on my work
-    => <color fg="green">Commitment</color> - AI becomes part of my workflow
+    ==> <color fg="red">Denial</color> - AI is just hype
+    ==> <color fg="red">Anger</color> - It produces bad code
+    ==> <color fg="yellow">Bargaining</color> - Use it only for boilerplate
+    ==> <color fg="yellow">Anxiety & Loss</color> - What is my long-term value?
+    ==> <color fg="blue">Acceptance</color> - I need to learn to use it well
+    ==> <color fg="blue">Experimentation</color> - Let me test it on my work
+    ==> <color fg="green">Commitment</color> - AI becomes part of my workflow
 </p>
 
 /* PRESENTER NOTES:

@@ -201,6 +201,8 @@ gelecekteki felaketlerin temelidir.
 
 ---
 
+<ignore/>
+
 <header color=cyan>REALITY: AI CREATES CODE THAT WILL CHURN</header>
 
 <image path="code_churn.jpg" width="40%"/>
@@ -236,6 +238,8 @@ bu kelimeyi tekrar kullanacağız ama yeniden tanımlamayacağız.
 */
 
 ---
+
+<ignore/>
 
 <header color=cyan>REALITY: AI PRODUCES NOISE FAST TOO</header>
 
@@ -334,6 +338,8 @@ Zanaatkarlık, bu "hileleri" fark edebilecek kadar sistemin içine hakim olmakt�
 */
 
 ---
+
+<ignore/>
 
 <header color=cyan>REALITY: AI FASCINATES NOVICES</header>
 

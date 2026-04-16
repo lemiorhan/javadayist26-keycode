@@ -22,6 +22,8 @@ but when there is nothing left to take away."
 
 ---
 
+<ignore/>
+
 <image path="toyota.jpg" width="40%"/>
 
 ---
@@ -193,6 +195,8 @@ Dilinizin hassasiyeti, AI çıktısının kalitesini belirler.
 */
 
 ---
+
+<ignore/>
 
 <p max-width=70 align=left>
     Code has now become assembly (low-level)

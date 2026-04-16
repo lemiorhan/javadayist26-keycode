@@ -79,6 +79,8 @@ Test kırmızı yandığında, her şey durmalıdır.
 
 ---
 
+<ignore/>
+
 <p max-width=60 align=center>
     We weave such a <color fg="red">verification harness</color> around the machine that
     the system sounds an alarm the moment the machine steps outside that cage
@@ -102,7 +104,7 @@ Sıkı bir kafes = daha fazla otonom hareket alanı.
 ---
 
 <p max-width=60 align=left>
-    Assume the AI <color fg="red">lied</color> to you!
+    Always assume the AI <color fg="red">lies</color> to you!
 
     ==> AI does not know what is <color fg="yellow">good</color> or what is <color fg="yellow">bad</color>
     ==> Every generated line is <color fg="yellow">guilty</color> until proven <color fg="yellow">innocent</color>
@@ -130,6 +132,8 @@ O nedenle "Zero Trust" yaklaşımı bir tercih değil, bir zorunluluktur.
 */
 
 ---
+
+<ignore/>
 
 <p max-width=60 align=center>
     No matter what happens
@@ -270,6 +274,8 @@ Güvenlik bir duvar değil, bir süreçtir.
 */
 
 ---
+
+<ignore/>
 
 <p max-width=70 align=left>
     <color fg="red">[NO]</color> the one who builds a <color fg="yellow">flawless system</color>

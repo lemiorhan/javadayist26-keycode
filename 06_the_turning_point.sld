@@ -1,3 +1,5 @@
+<ignore/>
+
 <beautify/>
 <slide-number v-align="bottom" h-align="right"/>
 THE GREAT AI <color fg="green">STABILIZATION</color>
@@ -12,12 +14,14 @@ Aralık 2025'ten itibaren dünyamız değişti — ve bu sefer iyi yönde.
 
 ---
 
+<ignore/>
+
 <p max-width=60 align=left>
     New models <color fg="red">turned AI</color> into experts in reasoning and context
 
     Fewer <color fg="gray">Probably-Working</color> slop
     Fewer <color fg="gray">uncontrolled autonomy</color>
-    AI graduated from <color fg="yellow">Stochastic</color> to <color fg="green">Strategic</color>
+    We engineer the <color fg="yellow">context ecosystem</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -36,6 +40,8 @@ ne yapması gerektiğini dikte ediyoruz.
 */
 
 ---
+
+<ignore/>
 
 <p max-width=60 align=left>
     We stoped <color fg="red">whispering prompts</color> and started <color fg="red">architecting</color>

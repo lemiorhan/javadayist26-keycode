@@ -1,3 +1,5 @@
+<ignore/>
+
 <beautify/>
 <title>
     CHARACTERISTICS OF THE NEW
@@ -5,6 +7,8 @@
 </title>
 
 ---
+
+<ignore/>
 
 <slide-number v-align="bottom" h-align="right"/>
 
@@ -37,6 +41,8 @@ Gerçek zanaat, o "baştan savma borcu" henüz oluşmadan
 
 ---
 
+<ignore/>
+
 <header color=cyan>2. ISOLATION MASTERY</header>
 
 <p max-width=60 align=left>
@@ -64,6 +70,8 @@ Phoenix Mimarisi ile her an çözülebilir.
 */
 
 ---
+
+<ignore/>
 
 <header color=cyan>3. SOCRATIC DIALOGUE</header>
 
@@ -96,6 +104,8 @@ yönlendiren pusula zanaatkardadır.
 
 ---
 
+<ignore/>
+
 <header color=cyan>4. DISPOSABILITY MINDSET</header>
 
 <p max-width=60 align=left>
@@ -125,6 +135,8 @@ Silebildiğiniz kadar özgür, değiştirebildiğiniz kadar ustasınızdır.
 
 ---
 
+<ignore/>
+
 <header color=cyan>5. META-LEARNING</header>
 
 <p max-width=60 align=left>
@@ -153,6 +165,8 @@ yarının mimarlarına dönüştüren en temel kasımızdır.
 */
 
 ---
+
+<ignore/>
 
 <p max-width=60 align=center>
     The new craftsmanship is <color fg="yellow">intent validation</color>

@@ -199,6 +199,8 @@ sahip olabileceği en büyük "süper güç"tür.
 
 ---
 
+<ignore/>
+
 <header color=cyan>JUDGMENT OVER SYNTAX</header>
 
 <p max-width=60 align=center>
