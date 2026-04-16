@@ -45,6 +45,8 @@ farkı yaratır. Alet çantası değil, ustanın eli önemlidir.
 
 ---
 
+<image path="faster_horses.jpg" width="60%"/>
+
 <p max-width=60 align=left>
     As Venkat says:
 
@@ -80,9 +82,9 @@ zenginleştirici bir geleceğe doğru ilerliyorsunuz.
 ---
 
 <p max-width=60 align=center>
-    Any fool can <color fg="red">prompt AI</color> to generate code.
+    Any fool can <color fg="red">prompt AI</color> to generate code
 
-    Good engineers build systems that <color fg="red">humans can trust</color>.
+    Good engineers build systems that <color fg="green">humans can trust</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -152,11 +154,11 @@ bir ortamda kimse sorumlu değildi. 500 milyon dolar harcandı.
 ---
 
 <p max-width=60 align=center>
-    Software Craftsmanship sees development
-    as a <color fg="yellow">profession</color>, not just a skill
+    Software Craftsmanship sees <color fg="red">development as a profession</color>,
+    not just a skill
 
-    Working code is a <color fg="gray">skill</color>
-    Sustainable systems mark the <color fg="cyan">profession</color>
+    Working code is a skill
+    <color fg="green">Sustainable systems mark the profession</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -188,13 +190,13 @@ Bu fark, AI çağında daha da keskinleşiyor.
 (3-5 saniye sessizlik bırak.)
 
 Bu üç kelime sunumun özeti:
-* Human — insan kal, makinenin parçası olma
+* Human — insan kal, makinenin parçası olma, takıntılarınla,
 * Curious — meraklı kal, sürekli öğren, denemeyi bırakma
 * Accountable — sorumlu kal, imzanı at, sahiplen
 
 20 yıl önce ilk Java kodumu yazdığımda, dünyayı değiştireceğimi sanıyordum.
 Bugün, yapay zekanın yazılım dünyasını değiştirdiğini görüyorum.
-Ama bir şey değişmedi: Zanaatkar, yaptığı işin altına imzasını atan kişidir.
+Temelde bir şey hiç değişmedi: Zanaatkar, yaptığı işin altına imzasını atan kişidir.
 
 Bu imzayı AI atamaz.
 

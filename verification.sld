@@ -34,8 +34,8 @@ Bu kayma, yazılım mühendisliğinin son 50 yıldaki en büyük dönüşümüd�
 
 ---
 
-<p max-width=60 align=left>
-    Tests are not written while developing production code
+<p max-width=70 align=left>
+    Tests are not written <color fg="red">while developing production code</color>
     Tests do not run to validate if a <color fg="red">developed function works as expected</color>
 
     Tests and specs are written to <color fg="yellow">let AI develop production code</color>
@@ -104,7 +104,7 @@ Sıkı bir kafes = daha fazla otonom hareket alanı.
 <p max-width=60 align=left>
     Assume the AI <color fg="red">lied</color> to you!
 
-    ==> AI does not know what is good or what is bad
+    ==> AI does not know what is <color fg="yellow">good</color> or what is <color fg="yellow">bad</color>
     ==> Every generated line is <color fg="yellow">guilty</color> until proven <color fg="yellow">innocent</color>
     ==> Validation is the only <color fg="yellow">truth</color>
     ==> Trust the <color fg="yellow">contract,</color> not the AI
@@ -212,12 +212,13 @@ tasarımın özüne odaklanmasını sağlar.
 
 ---
 
+<header color=cyan>CODE REVIEWS ???</header>
 <p max-width=60 align=center>
-    ... and start <color fg="yellow">plan reviews</color>
+    ... and start <color fg="red">plan reviews</color>
 
-    ==> Don't review the <color fg="gray">500 files diff</color>
-    ==> Review the <color fg="cyan">strategy & context</color>
-    ==> Trust the <color fg="green">automated guards</color> for syntax
+    ==> Don't review the <color fg="yellow">500 files diff</color>
+    ==> Review the <color fg="yellow">strategy & context</color>
+    ==> Trust the <color fg="yellow">automated guards</color> for syntax
 </p>
 
 /* PRESENTER NOTES:
@@ -237,12 +238,13 @@ planın doğruluğu bizim sorumluluğumuzdadır.
 
 ---
 
+<image path="swiss_cheese_model.png" width="35%"/>
 <p max-width=60 align=center>
     AI-native products are a <color fg="red">high-risk!</color>
 
-    ==> Individual layers have <color fg="gray">holes</color>
-    ==> Multiple layers block the <color fg="red">failure</color>
-    ==> Security is a <color fg="cyan">stack</color>, not a wall
+    ==> Individual layers have <color fg="yellow">holes</color>
+    ==> Multiple layers block the <color fg="yellow">failure</color>
+    ==> Security is a <color fg="yellow">stack</color>, not a wall
 </p>
 
 /* PRESENTER NOTES:
@@ -271,7 +273,7 @@ Güvenlik bir duvar değil, bir süreçtir.
 
 <p max-width=70 align=left>
     <color fg="red">[NO]</color> the one who builds a <color fg="yellow">flawless system</color>
-    <color fg="yellow">[YES]</color> the one who builds a system that <color fg="yellow">fixes errors so quickly</color> that no one even notices them
+    <color fg="green">[YES]</color> the one who builds a system that <color fg="green">fixes errors so quickly</color> that no one even notices them
 
     We used to say: <color fg="yellow">Slow down</color> to avoid mistakes
     Now we say: Mistakes are inevitable, so <color fg="yellow">minimize</color> their impact

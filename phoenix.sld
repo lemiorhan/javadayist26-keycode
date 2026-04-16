@@ -72,6 +72,8 @@ bir "harness" yoksa, kodu "ucuz" sanıp silmek Rus Ruleti oynamaktır.
 
 ---
 
+<image path="Regenerative_Software.jpg" width="40%"/>
+
 <p max-width=60 align=left>
     The code that we have is a <color fg="red">liability,</color>
     and the <color fg="red">system</color> is the asset
@@ -83,6 +85,7 @@ bir "harness" yoksa, kodu "ucuz" sanıp silmek Rus Ruleti oynamaktır.
 </p>
 
 <footnote>Source: Chad Fowler, "Stop Maintaining Your Code"</footnote>
+<qr colors=white-on-transparent width=15%>https://aicoding.leaflet.pub/3majnyfydzs2y</qr>
 
 /* PRESENTER NOTES:
 
@@ -170,39 +173,11 @@ yeniden üretilebilir yapı öne çıkıyor
 
 ---
 
-<p max-width=60 align=left>
-    Servers are cattle. <color fg="red">Code is now cattle</color>, too.
-
-    Stop naming your files <color fg="yellow">with love</color>
-    Be ready to <color fg="yellow">delete everything</color>
-</p>
-
-/* PRESENTER NOTES:
-
-Bulut bilişim ve DevOps bize sunucuların "evcil hayvan" (pet) değil,
-"besi hayvanı" (cattle) olduğunu öğretti.
-Bir sunucu çökerse üzülmeyiz, yenisini ayağa kaldırırız.
-
-Artık aynı kural kod dosyaları için de geçerli.
-
-Eskiden yazdığımız her fonksiyon bir "pet" gibiydi;
-ona isim verir, besler ve sonsuza dek saklamak isterdik.
-AI çağında bu yaklaşım felakettir.
-
-Zanaatkarın gücü, yazdığı 300 bin satır kodu bir saniyede silip
-daha iyisini yaptırabilme cesaretinden gelir.
-
-("Pets vs Cattle" kavramı DevOps dünyasından geliyor.
-Bilmeyenler için kısaca: sunuculara isim verip onlara bağlanmak yerine,
-numaralayıp otomatik değiştirmek.)
-
-*/
-
----
+<image path="code_prison.jpg" width="40%"/>
 
 <p max-width=60 align=center>
     A system that can't be deleted isn't a system.
-    it's a <color fg="red">prison.</color>
+    it's a <color fg="red">prison</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -228,7 +203,9 @@ Silebildiğiniz kadar güçlüsünüzdür.
 
 <p max-width=60 align=left>
     Regenerative Software:
-    <color fg="yellow">Specs</color> (intents), <color fg="yellow">decisions</color> made, <color fg="yellow">constraints</color>, and <color fg="yellow">evals</color> are the new "<color fg="red">Code</color>"
+
+    <color fg="yellow">Specs</color> (intents), <color fg="yellow">decisions</color> made, <color fg="yellow">constraints</color>, and <color fg="yellow">evals</color>
+    are the new "<color fg="red">Code</color>"
 </p>
 
 /* PRESENTER NOTES:
@@ -250,13 +227,16 @@ Kod artık bir çıktı (artifact), testler ise asıl kaynaktır.
 
 ---
 
-<p max-width=70 align=left>
-    AI is the <color fg="yellow">future compiler</color>
-    - Venkat Subramaniam
+<image path="compiler.jpg" width="30%"/>
+<p max-width=70 align=center>
+    AI is the <color fg="red">future compiler</color>
+    Compilers didn't kill development, they <color fg="red">accelerated</color> it.
+    AI will do the same.
+    <color fg="gray">- Venkat Subramaniam</color>
 
-    ==> You don't modify <color fg="gray">machine code</color>, you regenerate it
-    ==> What if we never look at <color fg="gray">source code</color> again?
-    ==> A company's wealth is in the <color fg="cyan">data</color> and the <color fg="cyan">business requirements</color>
+    ==> You don't modify <color fg="yellow">machine code</color>, you regenerate it
+    ==> What if we never look at <color fg="yellow">source code</color> again?
+    ==> A company's wealth is in the <color fg="yellow">data</color> and the <color fg="yellow">business requirements</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -311,6 +291,7 @@ Sonucu değil, sistemi değiştirin.
 
 ---
 
+<image path="fanuc_dark_factory.jpg" width="35%"/>
 <p max-width=60 align=left>
     Can we have a fully <color fg="red">human-free</color> development flow?
     A <color fg="yellow">Dark Factory</color> for all products?

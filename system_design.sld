@@ -22,12 +22,16 @@ but when there is nothing left to take away."
 
 ---
 
+<image path="toyota.jpg" width="40%"/>
+
+---
+
 <p max-width=60 align=left>
     The main human flaw is its <color fg="red">physiological fragility</color>
 
-    => Loving to have <color fg="yellow">strong beliefs</color>
-    => Eliminating unknowns by creating <color fg="yellow">imaginary constraints</color>
-    => <color fg="yellow">Complexity</color> is the ultimate cover for <color fg="yellow">incompetence</color>
+    Loving to have <color fg="yellow">strong beliefs</color>
+    Eliminating unknowns by creating <color fg="yellow">imaginary constraints</color>
+    <color fg="yellow">Complexity</color> is the ultimate cover for <color fg="yellow">incompetence</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -86,6 +90,8 @@ Bu soruyu biraz asılı bırak. Dinleyicinin düşünmesine izin ver.
 
 ---
 
+<image path="code_block.jpg" width="40%"/>
+
 <p max-width=80 align=left>
     Let's see what <color fg="yellow">ugly but functional code</color> is
 
@@ -118,8 +124,8 @@ insanın onayladığı kod için geçerlidir."
 
 Will <color fg="yellow">clean code</color> still be relevant?
 
-=> <color fg="green">Yes</color>
-=> But not in the same way
+==> <color fg="green">Yes</color>
+==> But not in the same way
 
 /* PRESENTER NOTES:
 
@@ -158,11 +164,11 @@ Artık "kodu nasıl yazacağımızı" değil,
 
 <p max-width=70 align=left>
     <color fg="gray">"Build me a payment system"</color>
-    ==> Useless output
+    ===> Useless output
 
-    <color fg="green">"Within this Bounded Context, using these Aggregates
-    and this Ubiquitous Language, build a domain service"</color>
-    ==> Professional output
+    <color fg="gray">"Within this Bounded Context, using these Aggregates</color>
+    <color fg="gray">and this Ubiquitous Language, build a domain service"</color>
+    ===> Professional output
 
     The <color fg="yellow">precision of your language</color> determines
     the <color fg="cyan">quality of AI's output</color>

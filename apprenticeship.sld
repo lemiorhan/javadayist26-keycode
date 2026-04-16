@@ -174,6 +174,7 @@ bir kaldıraç olarak kullanmasını sağlar.
 
 ---
 
+<image path="shu_ha_ri.png" width="30%"/>
 <p max-width=60 align=left>
     Theory is the new muscle memory
     The next generation will struggle with

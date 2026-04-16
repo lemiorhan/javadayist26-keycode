@@ -1,7 +1,6 @@
 <slide-number v-align="bottom" h-align="right"/>
-
 <image path="ai_evolution.png" width="35%"/>
-<p top-margin=18 align="center">
+<p align="center">
 We have a link with AI <color fg="yellow">deep inside</color> our profession
 </p>
 
@@ -21,6 +20,7 @@ O gün başlayan devrim şimdi 5. fazına ulaştı.
 
 ---
 
+<image path="dartmouth_1956.jpg" width="40%"/>
 <p max-width=70 align=left>
     The term <color fg="red">AI</color> was coined by John McCarthy in <color fg="red">1956</color>
 
@@ -28,6 +28,7 @@ O gün başlayan devrim şimdi 5. fazına ulaştı.
     But it feels like it's <color fg="yellow">just happened</color>
     Evolution has just passed the level of getting <color fg="yellow">public attraction</color>
 </p>
+<footnote>Photo: 1956 Dartmouth Conference - McCarthy, Minsky, Shannon et al.</footnote>
 
 /* PRESENTER NOTES:
 
@@ -87,6 +88,7 @@ Bu dönem, zanaatkarlığın "sabır" testi gibiydi.
 
 <header color=cyan>PHASE 2: THE COPILOT ERA</header>
 
+<image path="copilot_ghost_text.png" width="40%"/>
 <p max-width=60 align=left>
     Believing in <color fg="yellow">GitHub Copilot</color> the ghost in the machine
 
@@ -119,6 +121,7 @@ erozyona uğratmaya başladı.
 
 <header color=cyan>PHASE 3: THE CHATGPT / VIBE ERA</header>
 
+<image path="Andrej_Karpathy_on_X_vibe_coding.jpg" width="40%"/>
 <p max-width=60 align=left>
     Era of <color fg="yellow">ChatGPT & Cursor</color> the component builders
 
@@ -149,6 +152,7 @@ zorunda kalmak, zanaatkarın en büyük kabusu haline geldi.
 
 <header color=cyan>PHASE 4: THE AGENTIC ERA</header>
 
+<image path="Agentic_Workflow_Patterns.jpg" width="40%"/>
 <p max-width=60 align=left>
     Working with <color fg="yellow">Devin & Claude Code</color> autonomous agents
 
@@ -182,6 +186,7 @@ manuel kod yazmaktan daha fazla enerji tüketebilir.
 
 <header color=red>PHASE 5: SOFTWARE FACTORY ERA</header>
 
+<image path="ai-sdlc.jpg" width="40%"/>
 <p max-width=60 align=left>
     AI is becoming <color fg="yellow">The End-to-End SDLC Specialist</color>
 

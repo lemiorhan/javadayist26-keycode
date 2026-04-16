@@ -15,6 +15,7 @@ Cevap şaşırtıcı derecede basit...
 
 ---
 
+<image path="digital_self.jpg" width="40%"/>
 <p max-width=72 align=left>
     We are trying to <color fg="yellow">scale ourselves</color> for the first time
     in history by creating our <color fg="yellow">digital self</color>
@@ -40,11 +41,13 @@ kendi zihinsel kapasitesini bir makineye aktararak kendini ölçeklendirmeye ça
 ---
 
 <p max-width=60 align=center>
-    AI won't make you <color fg="yellow">faster</color>
-    but make you much <color fg="yellow">braver</color>
+    AI won't make you <color fg="red">faster</color>
+    but make you much <color fg="green">braver</color>
 
-    => Projects that were <color fg="red">too big</color> are now <color fg="cyan">possible</color>
-    => AI gives us the <color fg="green">courage</color> to build ideas we previously <color fg="red">didn't dare</color> to attempt
+    ==> Projects that were <color fg="yellow">too big</color> are now <color fg="yellow">possible</color>
+
+    ==> AI gives us the <color fg="yellow">courage</color> to build ideas
+    ==> we previously <color fg="yellow">didn't dare</color> to attempt
 </p>
 
 /* PRESENTER NOTES:
@@ -65,12 +68,6 @@ yapay zeka desteğiyle cesaret edebileceğiz.
 
 <p max-width=70 align=left>
     AI has no aim for <color fg="red">sustainability</color>
-
-    => Sustainability means managing <color fg="yellow">trade-offs</color> continuously
-
-    => Trade-offs require understanding the rationale behind seemingly <color fg="yellow">bad decisions</color>
-
-    => <color fg="cyan">tradeOffs = f( system, constraints, intent, human-wisdom )</color>
 </p>
 
 /* PRESENTER NOTES:
@@ -89,6 +86,19 @@ Tavizlerin toplamı ise mühendislik değil, borçtur.
 
 ---
 
+<image path="balance_of_decisions.jpg" width="60%"/>
+
+<p max-width=70 align=left>
+    > <color fg="red">tradeOffs = f( system, constraints, intent, wisdom )</color>
+    > <color fg="green">sustainability = f( trade-offs )</color>
+
+Sustainability means managing <color fg="yellow">trade-offs</color> continuously
+Requires understanding the rationale behind seemingly <color fg="yellow">bad decisions</color>
+</p>
+
+---
+
+<image path="ai-waterfall.png" width="40%"/>
 <p max-width=60 align=center>
     They say AI brought <color fg="red">Waterfall</color> back
 
